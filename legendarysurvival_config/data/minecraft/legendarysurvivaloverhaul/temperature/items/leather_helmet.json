@@ -1,0 +1,6 @@
+{
+  "temperature": 0.25,
+  "heat_resistance": 0.75,
+  "cold_resistance": 0.1,
+  "thermal_resistance": 0.25
+}
